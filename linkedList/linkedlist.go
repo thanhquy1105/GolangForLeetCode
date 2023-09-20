@@ -1,4 +1,4 @@
-package main
+package linkedList
 
 import "fmt"
 
@@ -51,7 +51,7 @@ func (l *SinglyLinkedList) print() {
 
 }
 
-func main() {
+func Main() {
 	var l SinglyLinkedList
 	l.add(10)
 	l.add(9)
