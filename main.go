@@ -1,11 +1,12 @@
 package main
 
 import (
-	"goexercise/linkedList"
-	"goexercise/randomizer"
+	circularqueue "goexercise/LeetCode/622.design-circular-queue"
 )
 
 func main() {
-	linkedList.Main()
-	randomizer.Main()
+	// linkedList.Main()
+	// randomizer.Main()
+	// atoi.Main()
+	circularqueue.Main()
 }
