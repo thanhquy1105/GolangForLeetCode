@@ -1,10 +1,14 @@
 package main
 
-import atoi "goexercise/LeetCode/008.string-to-int-atoi"
+import (
+	fractiontodecimal "goexercise/LeetCode/166.fraction-to-decimal"
+)
 
 func main() {
 	// linkedList.Main()
 	// randomizer.Main()
-	atoi.Main()
+	// atoi.Main()
 	// circularqueue.Main()
+	// dividetwoint.Main()
+	fractiontodecimal.Main()
 }
