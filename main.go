@@ -1,7 +1,7 @@
 package main
 
 import (
-	fractiontodecimal "goexercise/LeetCode/166.fraction-to-decimal"
+	countandsay "goexercise/LeetCode/038.count-and-say"
 )
 
 func main() {
@@ -10,5 +10,7 @@ func main() {
 	// atoi.Main()
 	// circularqueue.Main()
 	// dividetwoint.Main()
-	fractiontodecimal.Main()
+	// fractiontodecimal.Main()
+	// reverseint.Main()
+	countandsay.Main()
 }
