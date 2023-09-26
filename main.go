@@ -1,7 +1,7 @@
 package main
 
 import (
-	countandsay "goexercise/LeetCode/038.count-and-say"
+	minstack "goexercise/LeetCode/155.min-stack"
 )
 
 func main() {
@@ -12,5 +12,6 @@ func main() {
 	// dividetwoint.Main()
 	// fractiontodecimal.Main()
 	// reverseint.Main()
-	countandsay.Main()
+	// countandsay.Main()
+	minstack.Main()
 }
