@@ -1,8 +1,6 @@
 package main
 
-import (
-	sum "goexercise/LeetCode/015.3sum"
-)
+import sum "goexercise/LeetCode/015.3sum"
 
 func main() {
 	// linkedList.Main()
@@ -15,4 +13,6 @@ func main() {
 	// countandsay.Main()
 	// minstack.Main()
 	sum.Main()
+	// maxareaofisland.Main()
+	// binarysearchtree.Main()
 }
