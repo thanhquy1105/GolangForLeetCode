@@ -1,6 +1,8 @@
 package main
 
-import sum "goexercise/LeetCode/015.3sum"
+import (
+	"goexercise/OtherCodes/heapsort"
+)
 
 func main() {
 	// linkedList.Main()
@@ -12,7 +14,10 @@ func main() {
 	// reverseint.Main()
 	// countandsay.Main()
 	// minstack.Main()
-	sum.Main()
+	// sum.Main()
 	// maxareaofisland.Main()
 	// binarysearchtree.Main()
+	// mergesort.Main()
+	// quicksort.Main()
+	heapsort.Main()
 }
