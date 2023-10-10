@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goexercise/OtherCodes/heapsort"
+	"goexercise/OtherCodes/shellsort"
 )
 
 func main() {
@@ -19,5 +19,6 @@ func main() {
 	// binarysearchtree.Main()
 	// mergesort.Main()
 	// quicksort.Main()
-	heapsort.Main()
+	// heapsort.Main()
+	shellsort.Main()
 }
