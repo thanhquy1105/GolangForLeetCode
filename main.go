@@ -1,8 +1,6 @@
 package main
 
-import (
-	"goexercise/OtherCodes/shellsort"
-)
+import "goexercise/OtherCodes/pipelineconcurrency"
 
 func main() {
 	// linkedList.Main()
@@ -20,5 +18,6 @@ func main() {
 	// mergesort.Main()
 	// quicksort.Main()
 	// heapsort.Main()
-	shellsort.Main()
+	// shellsort.Main()
+	pipelineconcurrency.Main()
 }
