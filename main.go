@@ -1,6 +1,8 @@
 package main
 
-import "goexercise/OtherCodes/pipelineconcurrency"
+import (
+	countprimes "goexercise/LeetCode/204.count-primes"
+)
 
 func main() {
 	// linkedList.Main()
@@ -19,5 +21,6 @@ func main() {
 	// quicksort.Main()
 	// heapsort.Main()
 	// shellsort.Main()
-	pipelineconcurrency.Main()
+	// pipelineconcurrency.Main()
+	countprimes.Main()
 }
